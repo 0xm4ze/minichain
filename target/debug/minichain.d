@@ -1,0 +1,1 @@
+/home/maze/auditors/rust/minichain/target/debug/minichain: /home/maze/auditors/rust/minichain/src/block.rs /home/maze/auditors/rust/minichain/src/blockchain.rs /home/maze/auditors/rust/minichain/src/main.rs
